@@ -536,6 +536,7 @@
         "replaces": "Market",
         "uniqueTo": "Arabia",
         "gold": 2,
+        "science": 999,
         "specialistSlots": {"Merchant": 1},
         "hurryCostModifier": 25,
         "uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
